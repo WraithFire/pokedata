@@ -108,3 +108,9 @@ query pokemon_details($pokemonId: Int, $movesetGame: String) {
     }
 }
 ```
+
+## Disclaimer
+This project uses Pokémon data provided by [PokeAPI](https://pokeapi.co/).
+All Pokémon names, data, and related intellectual property are owned by their respective rights holders.
+The API data is provided “as is,” and I make no guarantees about its accuracy, completeness, or reliability.
+I am not responsible for any issues, errors, or damages resulting from the use of this data or this project.

@@ -1,0 +1,128 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "rillaboom-gmax",
+        "weight": 10000,
+        "height": 280,
+        "exp_yield": 265,
+        "abilities": [
+          {
+            "ability": {
+              "name": "overgrow"
+            }
+          },
+          {
+            "ability": {
+              "name": "grassy-surge"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "grass"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 125,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 812,
+          "pokedex": [
+            {
+              "pokedex_number": 812
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Drummer Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 430,
+            "species": [
+              {
+                "name": "grookey",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "thwackey",
+                "pre_evolution": 810,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 16,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "rillaboom",
+                "pre_evolution": 811,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 35,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

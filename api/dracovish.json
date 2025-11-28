@@ -1,0 +1,932 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "dracovish",
+        "weight": 2150,
+        "height": 23,
+        "exp_yield": 177,
+        "abilities": [
+          {
+            "ability": {
+              "name": "water-absorb"
+            }
+          },
+          {
+            "ability": {
+              "name": "strong-jaw"
+            }
+          },
+          {
+            "ability": {
+              "name": "sand-rush"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "water"
+            }
+          },
+          {
+            "type": {
+              "name": "dragon"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "water-gun",
+              "power": 40,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "brutal-swing",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "ancient-power",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bite",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dragon-breath",
+              "power": 60,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 35
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stomp",
+              "power": 65,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 42
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "super-fang",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 49
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "crunch",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 56
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fishious-rend",
+              "power": 85,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 63
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dragon-pulse",
+              "power": 85,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 70
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dragon-rush",
+              "power": 100,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 77
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "mega-kick",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "body-slam",
+              "power": 85,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "hydro-pump",
+              "power": 110,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "surf",
+              "power": 90,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "hyper-beam",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "low-kick",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "waterfall",
+              "power": 80,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "leech-life",
+              "power": 80,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "outrage",
+              "power": 120,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "crunch",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "whirlpool",
+              "power": 35,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dive",
+              "power": 80,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "brine",
+              "power": 65,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dragon-pulse",
+              "power": 85,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "earth-power",
+              "power": 90,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "giga-impact",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "ice-fang",
+              "power": 65,
+              "type": {
+                "name": "ice"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "zen-headbutt",
+              "power": 80,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "iron-head",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "scald",
+              "power": 80,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "brutal-swing",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "psychic-fangs",
+              "power": 85,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stomping-tantrum",
+              "power": 75,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "liquidation",
+              "power": 85,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "draco-meteor",
+              "power": 130,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "meteor-beam",
+              "power": 120,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 882,
+          "pokedex": [
+            {
+              "pokedex_number": 882
+            }
+          ],
+          "gender_rate": -1,
+          "category": [
+            {
+              "genus": "Fossil Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 463,
+            "species": [
+              {
+                "name": "dracovish",
+                "pre_evolution": null,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

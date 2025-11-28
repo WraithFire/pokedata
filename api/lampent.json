@@ -1,0 +1,7052 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "lampent",
+        "weight": 130,
+        "height": 6,
+        "exp_yield": 130,
+        "abilities": [
+          {
+            "ability": {
+              "name": "flash-fire"
+            }
+          },
+          {
+            "ability": {
+              "name": "flame-body"
+            }
+          },
+          {
+            "ability": {
+              "name": "infiltrator"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "ghost"
+            }
+          },
+          {
+            "type": {
+              "name": "fire"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 5
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "flame-burst",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 45
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 53
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 61
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 69
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 5
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "flame-burst",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 45
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 53
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 61
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 69
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 5
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flame-burst",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 45
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 53
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 61
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 69
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 5
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flame-burst",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 45
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 53
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 61
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 69
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 5
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flame-burst",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 45
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 53
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 61
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 69
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 5
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flame-burst",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 45
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 53
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 61
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 69
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 46
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 52
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 58
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 64
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "minimize",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "inferno",
+              "power": 100,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 46
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 52
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 58
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 64
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "dream-eater",
+              "power": 100,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "flash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "telekinesis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "incinerate",
+              "power": 60,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "dream-eater",
+              "power": 100,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "flash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "telekinesis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "incinerate",
+              "power": 60,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "dream-eater",
+              "power": 100,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "incinerate",
+              "power": 60,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "dream-eater",
+              "power": 100,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "secret-power",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "incinerate",
+              "power": 60,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "dream-eater",
+              "power": 100,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "dream-eater",
+              "power": 100,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "safeguard",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "trick",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "ally-switch",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "mystical-fire",
+              "power": 75,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "solar-beam",
+              "power": 120,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "confuse-ray",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "haze",
+              "power": null,
+              "type": {
+                "name": "ice"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "trick",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "energy-ball",
+              "power": 90,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "burning-jealousy",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "lash-out",
+              "power": 75,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "poltergeist",
+              "power": 110,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tera-blast",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "temper-flare",
+              "power": 75,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "skitter-smack",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "trick",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "trick",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "shock-wave",
+              "power": 60,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "pain-split",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "trick",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "shock-wave",
+              "power": 60,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "telekinesis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "ally-switch",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "skitter-smack",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "burning-jealousy",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "poltergeist",
+              "power": 110,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 608,
+          "pokedex": [
+            {
+              "pokedex_number": 608
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Lamp Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 308,
+            "species": [
+              {
+                "name": "litwick",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "lampent",
+                "pre_evolution": 607,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 41,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "chandelure",
+                "pre_evolution": 608,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 108,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

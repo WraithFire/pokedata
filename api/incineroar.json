@@ -1,0 +1,4985 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "incineroar",
+        "weight": 830,
+        "height": 18,
+        "exp_yield": 239,
+        "abilities": [
+          {
+            "ability": {
+              "name": "blaze"
+            }
+          },
+          {
+            "ability": {
+              "name": "intimidate"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "fire"
+            }
+          },
+          {
+            "type": {
+              "name": "dark"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 115,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 0
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "scratch",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "lick",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "throat-chop",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "lick",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "leer",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 11
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fire-fang",
+              "power": 65,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 19
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "bite",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fury-swipes",
+              "power": 18,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "thrash",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 44
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "scary-face",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 49
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 55
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "outrage",
+              "power": 120,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 60
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "cross-chop",
+              "power": 100,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 66
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 0
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "scratch",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "lick",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "throat-chop",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "lick",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "leer",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 11
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fire-fang",
+              "power": 65,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "double-kick",
+              "power": 30,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 19
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bite",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fury-swipes",
+              "power": 18,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "thrash",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 38
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 44
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "scary-face",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 49
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 55
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "outrage",
+              "power": 120,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 60
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "cross-chop",
+              "power": 100,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 66
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 0
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "scratch",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "lick",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "cross-chop",
+              "power": 100,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "throat-chop",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 9
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fury-swipes",
+              "power": 18,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bite",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "double-kick",
+              "power": 30,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-fang",
+              "power": 65,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 25
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "scary-face",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 44
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "thrash",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 51
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 58
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 0
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "ember",
+              "power": 40,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "lick",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "cross-chop",
+              "power": 100,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 9
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fury-swipes",
+              "power": 18,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "bite",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "double-kick",
+              "power": 30,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-fang",
+              "power": 65,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 25
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "scary-face",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 44
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thrash",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 51
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 58
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swords-dance",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hyper-beam",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "leech-life",
+              "power": 80,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "torment",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "brick-break",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "u-turn",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "focus-blast",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "giga-impact",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "shadow-claw",
+              "power": 70,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "low-sweep",
+              "power": 65,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "quash",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "acrobatics",
+              "power": 55,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "work-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "snarl",
+              "power": 55,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "brutal-swing",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swords-dance",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hyper-beam",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "leech-life",
+              "power": 80,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "torment",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "brick-break",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "u-turn",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "focus-blast",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "giga-impact",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "shadow-claw",
+              "power": 70,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "low-sweep",
+              "power": 65,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "quash",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "acrobatics",
+              "power": 55,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "work-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snarl",
+              "power": 55,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "brutal-swing",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "mega-punch",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "pay-day",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-punch",
+              "power": 75,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "thunder-punch",
+              "power": 75,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "swords-dance",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "mega-kick",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "body-slam",
+              "power": 85,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "hyper-beam",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "low-kick",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "leech-life",
+              "power": 80,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "reversal",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "scary-face",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "outrage",
+              "power": 120,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "crunch",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "revenge",
+              "power": 60,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "brick-break",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "blaze-kick",
+              "power": 85,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "u-turn",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "close-combat",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "assurance",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "drain-punch",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "focus-blast",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "giga-impact",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "nasty-plot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "shadow-claw",
+              "power": 70,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-fang",
+              "power": 65,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "iron-head",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "low-sweep",
+              "power": 65,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "acrobatics",
+              "power": 55,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "work-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "heat-crash",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "snarl",
+              "power": 55,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "darkest-lariat",
+              "power": 85,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "throat-chop",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "brutal-swing",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stomping-tantrum",
+              "power": 75,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-punch",
+              "power": 75,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thunder-punch",
+              "power": 75,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "swords-dance",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "body-slam",
+              "power": 85,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "take-down",
+              "power": 90,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "double-edge",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "roar",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "hyper-beam",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "low-kick",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-spin",
+              "power": 35,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-blast",
+              "power": 110,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "leech-life",
+              "power": 80,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "reversal",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "scary-face",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "outrage",
+              "power": 120,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "baton-pass",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "crunch",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "will-o-wisp",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "focus-punch",
+              "power": 150,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "helping-hand",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "brick-break",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "knock-off",
+              "power": 65,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endeavor",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "blast-burn",
+              "power": 150,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "overheat",
+              "power": 130,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "bulk-up",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "u-turn",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "close-combat",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flare-blitz",
+              "power": 120,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "drain-punch",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "focus-blast",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "giga-impact",
+              "power": 150,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "nasty-plot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "shadow-claw",
+              "power": 70,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-fang",
+              "power": 65,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "iron-head",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flame-charge",
+              "power": 50,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "low-sweep",
+              "power": 65,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "acrobatics",
+              "power": 55,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fire-pledge",
+              "power": 80,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "heat-crash",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "snarl",
+              "power": 55,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "throat-chop",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "stomping-tantrum",
+              "power": 75,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "burning-jealousy",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "lash-out",
+              "power": 75,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "scorching-sands",
+              "power": 70,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tera-blast",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "trailblaze",
+              "power": 50,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "temper-flare",
+              "power": 75,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "blast-burn",
+              "power": 150,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fire-pledge",
+              "power": 80,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fire-punch",
+              "power": 75,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "thunder-punch",
+              "power": 75,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bind",
+              "power": 15,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "low-kick",
+              "power": null,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "outrage",
+              "power": 120,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "heat-wave",
+              "power": 95,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "focus-punch",
+              "power": 150,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "knock-off",
+              "power": 65,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "endeavor",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snatch",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "blast-burn",
+              "power": 150,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "covet",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "drain-punch",
+              "power": 75,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "iron-head",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fire-pledge",
+              "power": 80,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "dual-chop",
+              "power": 40,
+              "type": {
+                "name": "dragon"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "throat-chop",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "stomping-tantrum",
+              "power": 75,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "blast-burn",
+              "power": 150,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fire-pledge",
+              "power": 80,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "burning-jealousy",
+              "power": 70,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "lash-out",
+              "power": 75,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "scorching-sands",
+              "power": 70,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 727,
+          "pokedex": [
+            {
+              "pokedex_number": 727
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Heel Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 375,
+            "species": [
+              {
+                "name": "litten",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "torracat",
+                "pre_evolution": 725,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 17,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "incineroar",
+                "pre_evolution": 726,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 34,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

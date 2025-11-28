@@ -1,0 +1,546 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "scatterbug",
+        "weight": 25,
+        "height": 3,
+        "exp_yield": 40,
+        "abilities": [
+          {
+            "ability": {
+              "name": "shield-dust"
+            }
+          },
+          {
+            "ability": {
+              "name": "compound-eyes"
+            }
+          },
+          {
+            "ability": {
+              "name": "friend-guard"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "bug"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 38,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 35,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 27,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 25,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 35,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "string-shot",
+              "power": null,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "stun-spore",
+              "power": null,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "string-shot",
+              "power": null,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "stun-spore",
+              "power": null,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "string-shot",
+              "power": null,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "stun-spore",
+              "power": null,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "string-shot",
+              "power": null,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "stun-spore",
+              "power": null,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "string-shot",
+              "power": null,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "stun-spore",
+              "power": null,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "struggle-bug",
+              "power": 50,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tera-blast",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "pounce",
+              "power": 50,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bug-bite",
+              "power": 60,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 664,
+          "pokedex": [
+            {
+              "pokedex_number": 664
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Scatterdust Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 342,
+            "species": [
+              {
+                "name": "scatterbug",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "spewpa",
+                "pre_evolution": 664,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 9,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "vivillon",
+                "pre_evolution": 665,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 12,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "floette-mega",
+        "weight": 1008,
+        "height": 2,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "fairy"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 74,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 87,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 155,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 148,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 102,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 670,
+          "pokedex": [
+            {
+              "pokedex_number": 670
+            }
+          ],
+          "gender_rate": 8,
+          "category": [
+            {
+              "genus": "Single Bloom Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 344,
+            "species": [
+              {
+                "name": "flabebe",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "floette",
+                "pre_evolution": 669,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 19,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "florges",
+                "pre_evolution": 670,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 107,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

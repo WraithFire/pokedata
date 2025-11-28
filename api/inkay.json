@@ -1,0 +1,5312 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "inkay",
+        "weight": 35,
+        "height": 4,
+        "exp_yield": 58,
+        "abilities": [
+          {
+            "ability": {
+              "name": "contrary"
+            }
+          },
+          {
+            "ability": {
+              "name": "suction-cups"
+            }
+          },
+          {
+            "ability": {
+              "name": "infiltrator"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "dark"
+            }
+          },
+          {
+            "type": {
+              "name": "psychic"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 53,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 54,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 53,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 37,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 46,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "constrict",
+              "power": 10,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psywave",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "topsy-turvy",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "hypnosis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 18
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "switcheroo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 35
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 39
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "slash",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 43
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "night-slash",
+              "power": 70,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 46
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 48
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "constrict",
+              "power": 10,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psywave",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "topsy-turvy",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "hypnosis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 18
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "switcheroo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 35
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 39
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "slash",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 43
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "night-slash",
+              "power": 70,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 46
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 48
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "constrict",
+              "power": 10,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psywave",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "topsy-turvy",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hypnosis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 18
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "switcheroo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 35
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 39
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "slash",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 43
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "night-slash",
+              "power": 70,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 46
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 48
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "constrict",
+              "power": 10,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psywave",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 13
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "topsy-turvy",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hypnosis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 18
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "switcheroo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 35
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 39
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "slash",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 43
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "night-slash",
+              "power": 70,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 46
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 48
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "hypnosis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "wrap",
+              "power": 15,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 9
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 18
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "slash",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "night-slash",
+              "power": 70,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "switcheroo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "topsy-turvy",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 39
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "hypnosis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "wrap",
+              "power": 15,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 9
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 18
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "slash",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "night-slash",
+              "power": 70,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "switcheroo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "topsy-turvy",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 39
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "cut",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "torment",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "retaliate",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "cut",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "torment",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "secret-power",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "retaliate",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "torment",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "torment",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "embargo",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "baton-pass",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "future-sight",
+              "power": 120,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fake-tears",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "payback",
+              "power": 50,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "guard-swap",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "nasty-plot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "psycho-cut",
+              "power": 70,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stored-power",
+              "power": 20,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "ally-switch",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "retaliate",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "liquidation",
+              "power": 85,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "flamethrower",
+              "power": 90,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psybeam",
+              "power": 65,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psychic",
+              "power": 90,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "light-screen",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "swift",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thief",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "baton-pass",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rain-dance",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sunny-day",
+              "power": null,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psych-up",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "future-sight",
+              "power": 120,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "taunt",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "helping-hand",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "trick",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "knock-off",
+              "power": 65,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "skill-swap",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fake-tears",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "calm-mind",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "gravity",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fling",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "dark-pulse",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "nasty-plot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "trick-room",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "psyshock",
+              "power": 80,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "stored-power",
+              "power": 20,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "lunge",
+              "power": 80,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "liquidation",
+              "power": 85,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "expanding-force",
+              "power": 80,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "lash-out",
+              "power": 75,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tera-blast",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "bind",
+              "power": 15,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "role-play",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "knock-off",
+              "power": 65,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "snatch",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bind",
+              "power": 15,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "role-play",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "superpower",
+              "power": 120,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "knock-off",
+              "power": 65,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snatch",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "telekinesis",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "ally-switch",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "expanding-force",
+              "power": 80,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "lash-out",
+              "power": 75,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 686,
+          "pokedex": [
+            {
+              "pokedex_number": 686
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Revolving Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 352,
+            "species": [
+              {
+                "name": "inkay",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "malamar",
+                "pre_evolution": 686,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 30,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

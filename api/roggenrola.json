@@ -1,0 +1,4532 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "roggenrola",
+        "weight": 180,
+        "height": 4,
+        "exp_yield": 56,
+        "abilities": [
+          {
+            "ability": {
+              "name": "sturdy"
+            }
+          },
+          {
+            "ability": {
+              "name": "weak-armor"
+            }
+          },
+          {
+            "ability": {
+              "name": "sand-force"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "rock"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 25,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 25,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 15,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 30
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 33
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "harden",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "mud-slap",
+              "power": 20,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 12
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 20
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 36
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 44
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "strength",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rock-smash",
+              "power": 40,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "rock-polish",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-white"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "strength",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rock-smash",
+              "power": 40,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "rock-polish",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "strength",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-smash",
+              "power": 40,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "nature-power",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "rock-polish",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "x-y"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "strength",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-smash",
+              "power": 40,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "nature-power",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "secret-power",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "rock-polish",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "nature-power",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "rock-polish",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "double-team",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "explosion",
+              "power": 250,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "swagger",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "return",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "frustration",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "hidden-power",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "nature-power",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "rock-polish",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "smack-down",
+              "power": 50,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "confide",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "earthquake",
+              "power": 100,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-slide",
+              "power": 75,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sandstorm",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "attract",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-tomb",
+              "power": 60,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "sand-tomb",
+              "power": 35,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "rock-blast",
+              "power": 25,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "earth-power",
+              "power": 90,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "flash-cannon",
+              "power": 80,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stone-edge",
+              "power": 100,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "heavy-slam",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "round",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "bulldoze",
+              "power": 60,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "body-press",
+              "power": 80,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "block",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "gravity",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "earth-power",
+              "power": 90,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "black-2-white-2"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "block",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "gravity",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "earth-power",
+              "power": 90,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "omega-ruby-alpha-sapphire"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "snore",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "iron-defense",
+              "power": null,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "block",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "gravity",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "earth-power",
+              "power": 90,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "stealth-rock",
+              "power": null,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "meteor-beam",
+              "power": 120,
+              "type": {
+                "name": "rock"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 524,
+          "pokedex": [
+            {
+              "pokedex_number": 524
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Mantle Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 268,
+            "species": [
+              {
+                "name": "roggenrola",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "boldore",
+                "pre_evolution": 524,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 25,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "gigalith",
+                "pre_evolution": 525,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "trade"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

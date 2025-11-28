@@ -1,0 +1,268 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "cosmog",
+        "weight": 1,
+        "height": 2,
+        "exp_yield": 40,
+        "abilities": [
+          {
+            "ability": {
+              "name": "unaware"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "psychic"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 43,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 29,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 31,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 29,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 31,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 37,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "splash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sun-moon"
+            },
+            "move": {
+              "name": "teleport",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "splash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "ultra-sun-ultra-moon"
+            },
+            "move": {
+              "name": "teleport",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "teleport",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "splash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "splash",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "teleport",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          }
+        ],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 789,
+          "pokedex": [
+            {
+              "pokedex_number": 789
+            }
+          ],
+          "gender_rate": -1,
+          "category": [
+            {
+              "genus": "Nebula Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 413,
+            "species": [
+              {
+                "name": "cosmog",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "cosmoem",
+                "pre_evolution": 789,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 43,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "solgaleo",
+                "pre_evolution": 790,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 53,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "lunala",
+                "pre_evolution": 790,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 53,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

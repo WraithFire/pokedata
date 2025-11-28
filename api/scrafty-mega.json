@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "scrafty-mega",
+        "weight": 310,
+        "height": 11,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "dark"
+            }
+          },
+          {
+            "type": {
+              "name": "fighting"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 130,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 135,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 135,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 68,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 560,
+          "pokedex": [
+            {
+              "pokedex_number": 560
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Hoodlum Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 285,
+            "species": [
+              {
+                "name": "scraggy",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "scrafty",
+                "pre_evolution": 559,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 39,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

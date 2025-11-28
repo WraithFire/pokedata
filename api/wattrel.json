@@ -1,0 +1,841 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "wattrel",
+        "weight": 36,
+        "height": 4,
+        "exp_yield": 56,
+        "abilities": [
+          {
+            "ability": {
+              "name": "wind-power"
+            }
+          },
+          {
+            "ability": {
+              "name": "volt-absorb"
+            }
+          },
+          {
+            "ability": {
+              "name": "competitive"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "electric"
+            }
+          },
+          {
+            "type": {
+              "name": "flying"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 35,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "peck",
+              "power": 35,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thunder-shock",
+              "power": 40,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 4
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "quick-attack",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 7
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "pluck",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 11
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "spark",
+              "power": 65,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 15
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "uproar",
+              "power": 90,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 19
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "roost",
+              "power": null,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 23
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "dual-wingbeat",
+              "power": 40,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 27
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "agility",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "volt-switch",
+              "power": 70,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 37
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "discharge",
+              "power": 80,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 43
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fly",
+              "power": 90,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "take-down",
+              "power": 90,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thunderbolt",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thunder-wave",
+              "power": null,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "thunder",
+              "power": 110,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "agility",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "swift",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "air-cutter",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "aerial-ace",
+              "power": 60,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tailwind",
+              "power": null,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "u-turn",
+              "power": 70,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "air-slash",
+              "power": 75,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "brave-bird",
+              "power": 120,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "charge-beam",
+              "power": 50,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "electro-ball",
+              "power": null,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "acrobatics",
+              "power": 55,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "volt-switch",
+              "power": 70,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "wild-charge",
+              "power": 90,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "hurricane",
+              "power": 110,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "eerie-impulse",
+              "power": null,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "electric-terrain",
+              "power": null,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tera-blast",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "charge",
+              "power": null,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "uproar",
+              "power": 90,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "weather-ball",
+              "power": 50,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "dual-wingbeat",
+              "power": 40,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endeavor",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "electroweb",
+              "power": 55,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "feather-dance",
+              "power": null,
+              "type": {
+                "name": "flying"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          }
+        ],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 940,
+          "pokedex": [
+            {
+              "pokedex_number": 940
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Storm Petrel Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 492,
+            "species": [
+              {
+                "name": "wattrel",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "kilowattrel",
+                "pre_evolution": 940,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 25,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

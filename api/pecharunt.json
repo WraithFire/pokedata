@@ -1,0 +1,651 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "pecharunt",
+        "weight": 3,
+        "height": 3,
+        "exp_yield": 300,
+        "abilities": [
+          {
+            "ability": {
+              "name": "poison-puppeteer"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "poison"
+            }
+          },
+          {
+            "type": {
+              "name": "ghost"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 160,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "smog",
+              "power": 30,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "poison-gas",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "memento",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "astonish",
+              "power": 30,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "withdraw",
+              "power": null,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 8
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "destiny-bond",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 16
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fake-tears",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "parting-shot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 32
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 40
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "malignant-chain",
+              "power": 100,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 48
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 56
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "nasty-plot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 64
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "recover",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 72
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "night-shade",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "curse",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "spite",
+              "power": null,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sludge-bomb",
+              "power": 90,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "endure",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sleep-talk",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "imprison",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "fake-tears",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "nasty-plot",
+              "power": null,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "gunk-shot",
+              "power": 120,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "venoshock",
+              "power": 65,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "sludge-wave",
+              "power": 95,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "acid-spray",
+              "power": 40,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "foul-play",
+              "power": 95,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "hex",
+              "power": 65,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "phantom-force",
+              "power": 90,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "poltergeist",
+              "power": 110,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "scarlet-violet"
+            },
+            "move": {
+              "name": "tera-blast",
+              "power": 80,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          }
+        ],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 1025,
+          "pokedex": [
+            {
+              "pokedex_number": 1025
+            }
+          ],
+          "gender_rate": -1,
+          "category": [
+            {
+              "genus": "Subjugation Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 549,
+            "species": [
+              {
+                "name": "pecharunt",
+                "pre_evolution": null,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

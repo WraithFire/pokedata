@@ -1,0 +1,128 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "cinderace-gmax",
+        "weight": 10000,
+        "height": 270,
+        "exp_yield": 265,
+        "abilities": [
+          {
+            "ability": {
+              "name": "blaze"
+            }
+          },
+          {
+            "ability": {
+              "name": "libero"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "fire"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 116,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 119,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 815,
+          "pokedex": [
+            {
+              "pokedex_number": 815
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Striker Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 431,
+            "species": [
+              {
+                "name": "scorbunny",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "raboot",
+                "pre_evolution": 813,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 16,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "cinderace",
+                "pre_evolution": 814,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 35,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "pikachu-gmax",
+        "weight": 10000,
+        "height": 210,
+        "exp_yield": 112,
+        "abilities": [
+          {
+            "ability": {
+              "name": "static"
+            }
+          },
+          {
+            "ability": {
+              "name": "lightning-rod"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "electric"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 35,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 50,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 50,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 25,
+          "pokedex": [
+            {
+              "pokedex_number": 25
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Mouse Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 10,
+            "species": [
+              {
+                "name": "pikachu",
+                "pre_evolution": 172,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": 220,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "raichu",
+                "pre_evolution": 25,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 83,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "pichu",
+                "pre_evolution": null,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

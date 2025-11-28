@@ -1,0 +1,708 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "eevee-starter",
+        "weight": 65,
+        "height": 3,
+        "exp_yield": 87,
+        "abilities": [
+          {
+            "ability": {
+              "name": "run-away"
+            }
+          },
+          {
+            "ability": {
+              "name": "adaptability"
+            }
+          },
+          {
+            "ability": {
+              "name": "anticipation"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "normal"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "tackle",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "growl",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 1
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "tail-whip",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 3
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "quick-attack",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 6
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "double-kick",
+              "power": 30,
+              "type": {
+                "name": "fighting"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 10
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "sand-attack",
+              "power": null,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 14
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "bite",
+              "power": 60,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 17
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "swift",
+              "power": 60,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 21
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "take-down",
+              "power": 90,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 24
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "double-edge",
+              "power": 120,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            },
+            "level": 28
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "helping-hand",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            },
+            "level": 31
+          }
+        ],
+        "machineMoves": [
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "pay-day",
+              "power": 40,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "headbutt",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "dig",
+              "power": 80,
+              "type": {
+                "name": "ground"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "toxic",
+              "power": null,
+              "type": {
+                "name": "poison"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "reflect",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "rest",
+              "power": null,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "substitute",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "protect",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "iron-tail",
+              "power": 100,
+              "type": {
+                "name": "steel"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "shadow-ball",
+              "power": 80,
+              "type": {
+                "name": "ghost"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "facade",
+              "power": 70,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "helping-hand",
+              "power": null,
+              "type": {
+                "name": "normal"
+              },
+              "category": {
+                "name": "status"
+              }
+            }
+          }
+        ],
+        "eggMoves": [
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "bouncy-bubble",
+              "power": 60,
+              "type": {
+                "name": "water"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "buzzy-buzz",
+              "power": 60,
+              "type": {
+                "name": "electric"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "sizzly-slide",
+              "power": 60,
+              "type": {
+                "name": "fire"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "glitzy-glow",
+              "power": 80,
+              "type": {
+                "name": "psychic"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "baddy-bad",
+              "power": 80,
+              "type": {
+                "name": "dark"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "sappy-seed",
+              "power": 100,
+              "type": {
+                "name": "grass"
+              },
+              "category": {
+                "name": "physical"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "freezy-frost",
+              "power": 100,
+              "type": {
+                "name": "ice"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          },
+          {
+            "version": {
+              "name": "lets-go-pikachu-lets-go-eevee"
+            },
+            "move": {
+              "name": "sparkly-swirl",
+              "power": 120,
+              "type": {
+                "name": "fairy"
+              },
+              "category": {
+                "name": "special"
+              }
+            }
+          }
+        ],
+        "specy": {
+          "specy_id": 133,
+          "pokedex": [
+            {
+              "pokedex_number": 133
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Evolution Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 67,
+            "species": [
+              {
+                "name": "eevee",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "vaporeon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 84,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "jolteon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 83,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "flareon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 82,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "espeon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": 160,
+                    "item": null,
+                    "held_item": null,
+                    "time": "day"
+                  }
+                ]
+              },
+              {
+                "name": "umbreon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": 160,
+                    "item": null,
+                    "held_item": null,
+                    "time": "night"
+                  }
+                ]
+              },
+              {
+                "name": "leafeon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "glaceon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "sylveon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "centiskorch-gmax",
+        "weight": 10000,
+        "height": 750,
+        "exp_yield": 184,
+        "abilities": [
+          {
+            "ability": {
+              "name": "flash-fire"
+            }
+          },
+          {
+            "ability": {
+              "name": "white-smoke"
+            }
+          },
+          {
+            "ability": {
+              "name": "flame-body"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "fire"
+            }
+          },
+          {
+            "type": {
+              "name": "bug"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 115,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 851,
+          "pokedex": [
+            {
+              "pokedex_number": 851
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Radiator Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 447,
+            "species": [
+              {
+                "name": "sizzlipede",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "centiskorch",
+                "pre_evolution": 850,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 28,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

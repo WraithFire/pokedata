@@ -1,0 +1,138 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "corviknight-gmax",
+        "weight": 10000,
+        "height": 140,
+        "exp_yield": 248,
+        "abilities": [
+          {
+            "ability": {
+              "name": "pressure"
+            }
+          },
+          {
+            "ability": {
+              "name": "unnerve"
+            }
+          },
+          {
+            "ability": {
+              "name": "mirror-armor"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "flying"
+            }
+          },
+          {
+            "type": {
+              "name": "steel"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 98,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 87,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 105,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 53,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 67,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 823,
+          "pokedex": [
+            {
+              "pokedex_number": 823
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Raven Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 434,
+            "species": [
+              {
+                "name": "rookidee",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "corvisquire",
+                "pre_evolution": 821,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 18,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "corviknight",
+                "pre_evolution": 822,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 38,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

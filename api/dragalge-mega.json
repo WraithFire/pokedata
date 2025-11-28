@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "dragalge-mega",
+        "weight": 1003,
+        "height": 21,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "poison"
+            }
+          },
+          {
+            "type": {
+              "name": "dragon"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 105,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 132,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 163,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 44,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 691,
+          "pokedex": [
+            {
+              "pokedex_number": 691
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Mock Kelp Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 354,
+            "species": [
+              {
+                "name": "skrelp",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "dragalge",
+                "pre_evolution": 690,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 48,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

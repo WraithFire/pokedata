@@ -1,0 +1,138 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "coalossal-gmax",
+        "weight": 10000,
+        "height": 420,
+        "exp_yield": 255,
+        "abilities": [
+          {
+            "ability": {
+              "name": "steam-engine"
+            }
+          },
+          {
+            "ability": {
+              "name": "flame-body"
+            }
+          },
+          {
+            "ability": {
+              "name": "flash-fire"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "rock"
+            }
+          },
+          {
+            "type": {
+              "name": "fire"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 120,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 30,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 839,
+          "pokedex": [
+            {
+              "pokedex_number": 839
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Coal Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 441,
+            "species": [
+              {
+                "name": "rolycoly",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "carkol",
+                "pre_evolution": 837,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 18,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "coalossal",
+                "pre_evolution": 838,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 34,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "blipbug",
+        "weight": 80,
+        "height": 4,
+        "exp_yield": 36,
+        "abilities": [
+          {
+            "ability": {
+              "name": "swarm"
+            }
+          },
+          {
+            "ability": {
+              "name": "compound-eyes"
+            }
+          },
+          {
+            "ability": {
+              "name": "telepathy"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "bug"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 25,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 20,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 20,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 25,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [
+          {
+            "version": {
+              "name": "sword-shield"
+            },
+            "move": {
+              "name": "struggle-bug",
+              "power": 50,
+              "type": {
+                "name": "bug"
+              },
+              "category": {
+                "name": "special"
+              }
+            },
+            "level": 1
+          }
+        ],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 824,
+          "pokedex": [
+            {
+              "pokedex_number": 824
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Larva Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 435,
+            "species": [
+              {
+                "name": "blipbug",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "dottler",
+                "pre_evolution": 824,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 10,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "orbeetle",
+                "pre_evolution": 825,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 30,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "eevee-gmax",
+        "weight": 10000,
+        "height": 180,
+        "exp_yield": 65,
+        "abilities": [
+          {
+            "ability": {
+              "name": "run-away"
+            }
+          },
+          {
+            "ability": {
+              "name": "adaptability"
+            }
+          },
+          {
+            "ability": {
+              "name": "anticipation"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "normal"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 50,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 55,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 133,
+          "pokedex": [
+            {
+              "pokedex_number": 133
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Evolution Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 67,
+            "species": [
+              {
+                "name": "eevee",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "vaporeon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 84,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "jolteon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 83,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "flareon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 82,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "espeon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": 160,
+                    "item": null,
+                    "held_item": null,
+                    "time": "day"
+                  }
+                ]
+              },
+              {
+                "name": "umbreon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": 160,
+                    "item": null,
+                    "held_item": null,
+                    "time": "night"
+                  }
+                ]
+              },
+              {
+                "name": "leafeon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "glaceon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "sylveon",
+                "pre_evolution": 133,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

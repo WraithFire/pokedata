@@ -1,0 +1,148 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "appletun-gmax",
+        "weight": 10000,
+        "height": 240,
+        "exp_yield": 170,
+        "abilities": [
+          {
+            "ability": {
+              "name": "ripen"
+            }
+          },
+          {
+            "ability": {
+              "name": "gluttony"
+            }
+          },
+          {
+            "ability": {
+              "name": "thick-fat"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "grass"
+            }
+          },
+          {
+            "type": {
+              "name": "dragon"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 30,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 842,
+          "pokedex": [
+            {
+              "pokedex_number": 842
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Apple Nectar Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 442,
+            "species": [
+              {
+                "name": "applin",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "flapple",
+                "pre_evolution": 840,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 1175,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "appletun",
+                "pre_evolution": 840,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 1174,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "dipplin",
+                "pre_evolution": 840,
+                "evolution_condition": []
+              },
+              {
+                "name": "hydrapple",
+                "pre_evolution": 1011,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

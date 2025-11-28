@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "barbaracle-mega",
+        "weight": 1000,
+        "height": 22,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "rock"
+            }
+          },
+          {
+            "type": {
+              "name": "fighting"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 72,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 140,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 130,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 64,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 106,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 689,
+          "pokedex": [
+            {
+              "pokedex_number": 689
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Collective Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 353,
+            "species": [
+              {
+                "name": "binacle",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "barbaracle",
+                "pre_evolution": 688,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 39,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

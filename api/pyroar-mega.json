@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "pyroar-mega",
+        "weight": 933,
+        "height": 15,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "fire"
+            }
+          },
+          {
+            "type": {
+              "name": "normal"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 86,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 92,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 129,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 86,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 126,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 668,
+          "pokedex": [
+            {
+              "pokedex_number": 668
+            }
+          ],
+          "gender_rate": 7,
+          "category": [
+            {
+              "genus": "Royal Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 343,
+            "species": [
+              {
+                "name": "litleo",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "pyroar",
+                "pre_evolution": 667,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 35,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

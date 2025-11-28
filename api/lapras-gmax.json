@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "lapras-gmax",
+        "weight": 10000,
+        "height": 240,
+        "exp_yield": 187,
+        "abilities": [
+          {
+            "ability": {
+              "name": "water-absorb"
+            }
+          },
+          {
+            "ability": {
+              "name": "shell-armor"
+            }
+          },
+          {
+            "ability": {
+              "name": "hydration"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "water"
+            }
+          },
+          {
+            "type": {
+              "name": "ice"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 130,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 131,
+          "pokedex": [
+            {
+              "pokedex_number": 131
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Transport Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 65,
+            "species": [
+              {
+                "name": "lapras",
+                "pre_evolution": null,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

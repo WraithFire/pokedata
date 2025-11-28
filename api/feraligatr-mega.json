@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "feraligatr-mega",
+        "weight": 1088,
+        "height": 23,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "water"
+            }
+          },
+          {
+            "type": {
+              "name": "dragon"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 85,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 160,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 125,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 89,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 93,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 78,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 160,
+          "pokedex": [
+            {
+              "pokedex_number": 160
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Big Jaw Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 81,
+            "species": [
+              {
+                "name": "totodile",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "croconaw",
+                "pre_evolution": 158,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 18,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "feraligatr",
+                "pre_evolution": 159,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 30,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "venusaur-gmax",
+        "weight": 10000,
+        "height": 240,
+        "exp_yield": 236,
+        "abilities": [
+          {
+            "ability": {
+              "name": "overgrow"
+            }
+          },
+          {
+            "ability": {
+              "name": "chlorophyll"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "grass"
+            }
+          },
+          {
+            "type": {
+              "name": "poison"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 82,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 83,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 3,
+          "pokedex": [
+            {
+              "pokedex_number": 3
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Seed Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 1,
+            "species": [
+              {
+                "name": "bulbasaur",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "ivysaur",
+                "pre_evolution": 1,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 16,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "venusaur",
+                "pre_evolution": 2,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 32,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "clefable-mega",
+        "weight": 423,
+        "height": 17,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "fairy"
+            }
+          },
+          {
+            "type": {
+              "name": "flying"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 93,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 135,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 36,
+          "pokedex": [
+            {
+              "pokedex_number": 36
+            }
+          ],
+          "gender_rate": 6,
+          "category": [
+            {
+              "genus": "Fairy Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 14,
+            "species": [
+              {
+                "name": "clefairy",
+                "pre_evolution": 173,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": null,
+                    "happiness": 160,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "clefable",
+                "pre_evolution": 35,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 81,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "cleffa",
+                "pre_evolution": null,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

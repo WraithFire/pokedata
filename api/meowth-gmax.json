@@ -1,0 +1,133 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "meowth-gmax",
+        "weight": 10000,
+        "height": 330,
+        "exp_yield": 58,
+        "abilities": [
+          {
+            "ability": {
+              "name": "pickup"
+            }
+          },
+          {
+            "ability": {
+              "name": "technician"
+            }
+          },
+          {
+            "ability": {
+              "name": "unnerve"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "normal"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 35,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 40,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 52,
+          "pokedex": [
+            {
+              "pokedex_number": 52
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Scratch Cat Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 22,
+            "species": [
+              {
+                "name": "meowth",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "persian",
+                "pre_evolution": 52,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 28,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "perrserker",
+                "pre_evolution": 52,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 28,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

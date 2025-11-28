@@ -1,0 +1,138 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "grimmsnarl-gmax",
+        "weight": 10000,
+        "height": 320,
+        "exp_yield": 255,
+        "abilities": [
+          {
+            "ability": {
+              "name": "prankster"
+            }
+          },
+          {
+            "ability": {
+              "name": "frisk"
+            }
+          },
+          {
+            "ability": {
+              "name": "pickpocket"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "dark"
+            }
+          },
+          {
+            "type": {
+              "name": "fairy"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 120,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 861,
+          "pokedex": [
+            {
+              "pokedex_number": 861
+            }
+          ],
+          "gender_rate": 0,
+          "category": [
+            {
+              "genus": "Bulk Up Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 451,
+            "species": [
+              {
+                "name": "impidimp",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "morgrem",
+                "pre_evolution": 859,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 32,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "grimmsnarl",
+                "pre_evolution": 860,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 42,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

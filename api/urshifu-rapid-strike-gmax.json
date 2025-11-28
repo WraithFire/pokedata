@@ -1,0 +1,112 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "urshifu-rapid-strike-gmax",
+        "weight": 10000,
+        "height": 260,
+        "exp_yield": 275,
+        "abilities": [
+          {
+            "ability": {
+              "name": "unseen-fist"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "fighting"
+            }
+          },
+          {
+            "type": {
+              "name": "water"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 130,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 63,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 97,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 892,
+          "pokedex": [
+            {
+              "pokedex_number": 892
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Wushu Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 470,
+            "species": [
+              {
+                "name": "kubfu",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "urshifu",
+                "pre_evolution": 891,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "tower-of-darkness"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

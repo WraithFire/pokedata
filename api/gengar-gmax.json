@@ -1,0 +1,128 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "gengar-gmax",
+        "weight": 10000,
+        "height": 200,
+        "exp_yield": 225,
+        "abilities": [
+          {
+            "ability": {
+              "name": "cursed-body"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "ghost"
+            }
+          },
+          {
+            "type": {
+              "name": "poison"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 130,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 94,
+          "pokedex": [
+            {
+              "pokedex_number": 94
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Shadow Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 40,
+            "species": [
+              {
+                "name": "gastly",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "haunter",
+                "pre_evolution": 92,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 25,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "gengar",
+                "pre_evolution": 93,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "trade"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

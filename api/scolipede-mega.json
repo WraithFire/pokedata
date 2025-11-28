@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "scolipede-mega",
+        "weight": 2305,
+        "height": 32,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "bug"
+            }
+          },
+          {
+            "type": {
+              "name": "poison"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 140,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 149,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 99,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 62,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 545,
+          "pokedex": [
+            {
+              "pokedex_number": 545
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Megapede Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 277,
+            "species": [
+              {
+                "name": "venipede",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "whirlipede",
+                "pre_evolution": 543,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 22,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "scolipede",
+                "pre_evolution": 544,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 30,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

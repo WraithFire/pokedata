@@ -1,0 +1,117 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "garbodor-gmax",
+        "weight": 10000,
+        "height": 210,
+        "exp_yield": 166,
+        "abilities": [
+          {
+            "ability": {
+              "name": "stench"
+            }
+          },
+          {
+            "ability": {
+              "name": "weak-armor"
+            }
+          },
+          {
+            "ability": {
+              "name": "aftermath"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "poison"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 82,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 82,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 569,
+          "pokedex": [
+            {
+              "pokedex_number": 569
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Trash Heap Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 290,
+            "species": [
+              {
+                "name": "trubbish",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "garbodor",
+                "pre_evolution": 568,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 36,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "flapple-gmax",
+        "weight": 10000,
+        "height": 240,
+        "exp_yield": 170,
+        "abilities": [
+          {
+            "ability": {
+              "name": "ripen"
+            }
+          },
+          {
+            "ability": {
+              "name": "gluttony"
+            }
+          },
+          {
+            "ability": {
+              "name": "hustle"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "grass"
+            }
+          },
+          {
+            "type": {
+              "name": "dragon"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 95,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 841,
+          "pokedex": [
+            {
+              "pokedex_number": 841
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Apple Wing Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 442,
+            "species": [
+              {
+                "name": "applin",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "flapple",
+                "pre_evolution": 840,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 1175,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "appletun",
+                "pre_evolution": 840,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 1174,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "dipplin",
+                "pre_evolution": 840,
+                "evolution_condition": []
+              },
+              {
+                "name": "hydrapple",
+                "pre_evolution": 1011,
+                "evolution_condition": []
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

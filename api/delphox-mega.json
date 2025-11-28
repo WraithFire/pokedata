@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "delphox-mega",
+        "weight": 390,
+        "height": 15,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "fire"
+            }
+          },
+          {
+            "type": {
+              "name": "psychic"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 69,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 72,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 159,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 125,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 134,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 655,
+          "pokedex": [
+            {
+              "pokedex_number": 655
+            }
+          ],
+          "gender_rate": 1,
+          "category": [
+            {
+              "genus": "Fox Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 338,
+            "species": [
+              {
+                "name": "fennekin",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "braixen",
+                "pre_evolution": 653,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 16,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "delphox",
+                "pre_evolution": 654,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 36,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

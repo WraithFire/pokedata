@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "malamar-mega",
+        "weight": 698,
+        "height": 29,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "dark"
+            }
+          },
+          {
+            "type": {
+              "name": "psychic"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 86,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 102,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 98,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 120,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 88,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 687,
+          "pokedex": [
+            {
+              "pokedex_number": 687
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Overturning Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 352,
+            "species": [
+              {
+                "name": "inkay",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "malamar",
+                "pre_evolution": 686,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 30,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

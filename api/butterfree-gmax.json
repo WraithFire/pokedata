@@ -1,0 +1,133 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "butterfree-gmax",
+        "weight": 10000,
+        "height": 170,
+        "exp_yield": 178,
+        "abilities": [
+          {
+            "ability": {
+              "name": "compound-eyes"
+            }
+          },
+          {
+            "ability": {
+              "name": "tinted-lens"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "bug"
+            }
+          },
+          {
+            "type": {
+              "name": "flying"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 50,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 12,
+          "pokedex": [
+            {
+              "pokedex_number": 12
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Butterfly Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 4,
+            "species": [
+              {
+                "name": "caterpie",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "metapod",
+                "pre_evolution": 10,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 7,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "butterfree",
+                "pre_evolution": 11,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 10,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

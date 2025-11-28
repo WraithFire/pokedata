@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "chandelure-mega",
+        "weight": 696,
+        "height": 25,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "ghost"
+            }
+          },
+          {
+            "type": {
+              "name": "fire"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 175,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 609,
+          "pokedex": [
+            {
+              "pokedex_number": 609
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Luring Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 308,
+            "species": [
+              {
+                "name": "litwick",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "lampent",
+                "pre_evolution": 607,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 41,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "chandelure",
+                "pre_evolution": 608,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 108,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

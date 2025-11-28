@@ -1,0 +1,138 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "orbeetle-gmax",
+        "weight": 10000,
+        "height": 140,
+        "exp_yield": 253,
+        "abilities": [
+          {
+            "ability": {
+              "name": "swarm"
+            }
+          },
+          {
+            "ability": {
+              "name": "frisk"
+            }
+          },
+          {
+            "ability": {
+              "name": "telepathy"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "bug"
+            }
+          },
+          {
+            "type": {
+              "name": "psychic"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 45,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 120,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 826,
+          "pokedex": [
+            {
+              "pokedex_number": 826
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Seven Spot Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 435,
+            "species": [
+              {
+                "name": "blipbug",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "dottler",
+                "pre_evolution": 824,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 10,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "orbeetle",
+                "pre_evolution": 825,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 30,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

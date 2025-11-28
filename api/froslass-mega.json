@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "froslass-mega",
+        "weight": 296,
+        "height": 26,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "ice"
+            }
+          },
+          {
+            "type": {
+              "name": "ghost"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 80,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 70,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 140,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 100,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 120,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 478,
+          "pokedex": [
+            {
+              "pokedex_number": 478
+            }
+          ],
+          "gender_rate": 8,
+          "category": [
+            {
+              "genus": "Snow Land Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 186,
+            "species": [
+              {
+                "name": "snorunt",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "glalie",
+                "pre_evolution": 361,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 42,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              },
+              {
+                "name": "froslass",
+                "pre_evolution": 361,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 109,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

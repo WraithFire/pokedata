@@ -1,0 +1,112 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "alcremie-gmax",
+        "weight": 10000,
+        "height": 300,
+        "exp_yield": 173,
+        "abilities": [
+          {
+            "ability": {
+              "name": "sweet-veil"
+            }
+          },
+          {
+            "ability": {
+              "name": "aroma-veil"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "fairy"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 65,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 75,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 110,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 121,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 64,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 869,
+          "pokedex": [
+            {
+              "pokedex_number": 869
+            }
+          ],
+          "gender_rate": 8,
+          "category": [
+            {
+              "genus": "Cream Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 452,
+            "species": [
+              {
+                "name": "milcery",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "alcremie",
+                "pre_evolution": 868,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "spin"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "starmie-mega",
+        "weight": 800,
+        "height": 23,
+        "exp_yield": null,
+        "abilities": [],
+        "types": [
+          {
+            "type": {
+              "name": "water"
+            }
+          },
+          {
+            "type": {
+              "name": "psychic"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 60,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 140,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 105,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 130,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 105,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 120,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 121,
+          "pokedex": [
+            {
+              "pokedex_number": 121
+            }
+          ],
+          "gender_rate": -1,
+          "category": [
+            {
+              "genus": "Mysterious Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 56,
+            "species": [
+              {
+                "name": "staryu",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "starmie",
+                "pre_evolution": 120,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "use-item"
+                    },
+                    "level": null,
+                    "happiness": null,
+                    "item": 84,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "pokemon": [
+      {
+        "name": "drednaw-gmax",
+        "weight": 10000,
+        "height": 240,
+        "exp_yield": 170,
+        "abilities": [
+          {
+            "ability": {
+              "name": "strong-jaw"
+            }
+          },
+          {
+            "ability": {
+              "name": "shell-armor"
+            }
+          },
+          {
+            "ability": {
+              "name": "swift-swim"
+            }
+          }
+        ],
+        "types": [
+          {
+            "type": {
+              "name": "water"
+            }
+          },
+          {
+            "type": {
+              "name": "rock"
+            }
+          }
+        ],
+        "stats": [
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "hp"
+            }
+          },
+          {
+            "base_stat": 115,
+            "stat": {
+              "name": "attack"
+            }
+          },
+          {
+            "base_stat": 90,
+            "stat": {
+              "name": "defense"
+            }
+          },
+          {
+            "base_stat": 48,
+            "stat": {
+              "name": "special-attack"
+            }
+          },
+          {
+            "base_stat": 68,
+            "stat": {
+              "name": "special-defense"
+            }
+          },
+          {
+            "base_stat": 74,
+            "stat": {
+              "name": "speed"
+            }
+          }
+        ],
+        "levelUpMoves": [],
+        "machineMoves": [],
+        "eggMoves": [],
+        "specy": {
+          "specy_id": 834,
+          "pokedex": [
+            {
+              "pokedex_number": 834
+            }
+          ],
+          "gender_rate": 4,
+          "category": [
+            {
+              "genus": "Bite Pokémon"
+            }
+          ],
+          "evolution_chain": {
+            "chain_id": 439,
+            "species": [
+              {
+                "name": "chewtle",
+                "pre_evolution": null,
+                "evolution_condition": []
+              },
+              {
+                "name": "drednaw",
+                "pre_evolution": 833,
+                "evolution_condition": [
+                  {
+                    "evolutiontrigger": {
+                      "name": "level-up"
+                    },
+                    "level": 22,
+                    "happiness": null,
+                    "item": null,
+                    "held_item": null,
+                    "time": ""
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
